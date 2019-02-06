@@ -1,22 +1,22 @@
 body {
-    background-color: rgb(235, 235, 235);
+    background-color: #0F126A;
     font-family: 'Open Sans', sans-serif;
-    color: rgb(25, 47, 129);
-    font-size: 15px;
+    color: rgb(25, 47, 160);
+    font-size: 30px;
     line-height: 1.6em;
     text-align: center;
 }
 
 h1 {
-    color: Red;
+    color: #9E262C;
     font-family: 'Roboto', sans-serif;
-    font-size: 60px;
+    font-size: 40px;
     font-weight: 600;
     line-height: 1.6em;
 }
 
 h2 {
-    color: #0007D5;
+    color: #9E262C;
     font-family: 'Roboto', sans-serif;
     font-size: 40px;
     font-weight: 400;
@@ -24,8 +24,8 @@ h2 {
 }
 
 h3 {
-    font-family: 'Staatliches', cursive;
-    color: #1E00C1;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #9E262C;
     font-size: 30px;
     font-weight: 300;
     line-height: 1.4em;
@@ -33,7 +33,7 @@ h3 {
 
 a {
     font-family: 'Indie Flower', cursive;
-    color: #192F81;
+    color: #447AFB;
 }
 
 .container {
@@ -95,10 +95,11 @@ ul {
 
 .descriptif{
   margin-bottom: 20px
+  font-size 80px
 }
 
 .btn-red {
-    background-color: #DD5555;
+    background-color: #447AFB;
     color: white;
     font-weight: 500;
     padding: 10px;
